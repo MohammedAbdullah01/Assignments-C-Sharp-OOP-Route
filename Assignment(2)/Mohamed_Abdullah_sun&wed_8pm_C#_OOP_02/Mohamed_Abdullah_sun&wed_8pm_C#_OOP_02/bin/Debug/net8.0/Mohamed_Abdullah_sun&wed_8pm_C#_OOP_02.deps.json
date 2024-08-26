@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02/1.0.0": {
+        "runtime": {
+          "Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

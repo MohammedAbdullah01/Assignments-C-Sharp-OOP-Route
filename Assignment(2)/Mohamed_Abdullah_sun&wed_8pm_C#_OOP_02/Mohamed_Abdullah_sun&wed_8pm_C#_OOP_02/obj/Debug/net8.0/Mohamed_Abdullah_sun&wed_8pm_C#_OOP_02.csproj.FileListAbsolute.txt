@@ -1,0 +1,14 @@
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.exe
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.deps.json
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.runtimeconfig.json
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.dll
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.pdb
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.AssemblyInfoInputs.cache
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.AssemblyInfo.cs
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.csproj.CoreCompileInputs.cache
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.dll
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\refint\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.dll
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.pdb
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.genruntimeconfig.cache
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02\obj\Debug\net8.0\ref\Mohamed_Abdullah_sun&wed_8pm_C#_OOP_02.dll
